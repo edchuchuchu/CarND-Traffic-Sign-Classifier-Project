@@ -141,19 +141,19 @@ plot_hist(y_test, n_classes, "the count of each sign of test dataset ")
 ```
 
 
-![png](output_9_0.png)
+![png](./report_images/output_9_0.png)
 
 
 
-![png](output_9_1.png)
+![png](./report_images/output_9_1.png)
 
 
 
-![png](output_9_2.png)
+![png](./report_images/output_9_2.png)
 
 
 
-![png](output_9_3.png)
+![png](./report_images/output_9_3.png)
 
 
 ### Question2: Include an exploratory visualization of the dataset and identify where the code is in your code file.
@@ -239,7 +239,7 @@ plot_3_Datas(X_train_org, X_train_norm, X_train_gray, y_train)
     
 
 
-![png](output_16_1.png)
+![png](./report_images/output_16_1.png)
 
 
 ### Question1: Describe how, and identify where in your code, you preprocessed the image data. What tecniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc.
@@ -577,7 +577,7 @@ new_dataset, new_labels = shuffle(new_dataset, new_labels)
 ```
 
 
-![png](output_35_0.png)
+![png](./report_images/output_35_0.png)
 
 
 ### Question1: Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
