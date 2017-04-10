@@ -15,13 +15,15 @@ The goals / steps of this project:
 
 ### Setup
 To do this project, you will need Python 3 along with the following libraries, as well as Jupyter Notebook installed.
-`> pip install jupyter  
+```
+> pip install jupyter  
 > pip install matplotlib 
 > pip install numpy  
 > pip install pickle  
 > pip install sklearn  
 > pip install cv2  
-> pip install tensorflow`  
+> pip install tensorflow
+```  
   
 ### Dataset and Repository
 
